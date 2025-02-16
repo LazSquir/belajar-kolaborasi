@@ -1,6 +1,6 @@
 # belajar-kolaborasi
 **mantap banget pokonya**<br>
-*seru juga*
+**seru juga**
 * satu
 * dua 
 * tiga
