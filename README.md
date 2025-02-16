@@ -1,5 +1,5 @@
 # belajar-kolaborasi
-mantap banget pokonya<br>
+**mantap banget pokonya**<br>
 *seru juga*
 * satu
 * dua 
