@@ -1,3 +1,3 @@
 # belajar-kolaborasi
-mantap banget pokonya
-seru juga
+mantap banget pokonya<br>
+*seru juga*
